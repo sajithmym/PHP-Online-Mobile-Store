@@ -7,7 +7,7 @@
  
  to run this app first Excutute Local Server (Xampp Server is Best)
   
-   Important : In this Repositery "list.sql" open file in a text Editer and Select all and Copy 
+   Important : In this Repositery "smart_mobile_shop.sql" open file in a text Editer and Select all and Copy 
                Go to PhpmymAdmin Select SQL Tab Pase those code and Run for DB creation
 
 ![Screenshot (191)](https://user-images.githubusercontent.com/84276601/213775175-4e8842d3-e6a8-428e-8f8c-f4687f4f1fa0.png)
