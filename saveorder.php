@@ -6,12 +6,15 @@ $password = "";
 $dbname = "save";
 
 $db = mysqli_connect($servername, $username, $password, $dbname);
+
 if (!$db) {
     die("Connection failed: " . mysqli_connect_error());
 }
+
 $data = json_decode($_POST['d'], true);
 foreach ($data as $ck) {
     $count += 1;
+    
     if ($count == 1) {
         $owner = $ck['user'];
         try {
@@ -25,8 +28,10 @@ foreach ($data as $ck) {
         $list = mysqli_query($db, $Q);
         continue;
     }
+
     echo $owner;
     $Q = " INSERT INTO `$owner` (item,qty) VALUES ('$ck[nm]',$ck[qty]); ";
     $list = mysqli_query($db, $Q);
 }
+
 mysqli_close($db);
