@@ -2,10 +2,6 @@
 
 
 Pleace Vist :  https://sajith0jsphp0assignment.000webhostapp.com/
-
-
- # Admin gmail  : sajithcool@gmail.com
- # password : 10050
                    
  This is  Online-Mobile-Store Web App Using Html, Css, JavaScript, Php.
  
@@ -13,6 +9,9 @@ Pleace Vist :  https://sajith0jsphp0assignment.000webhostapp.com/
   
    Important : In this Repositery "smart_mobile_shop.sql" open file in a text Editer and Select all and Copy 
                Go to PhpmymAdmin Select SQL Tab Pase those code and Run for DB creation
+
+    ## Admin gmail  : sajithcool@gmail.com
+    ## password : 10050
 
 ![Screenshot (191)](https://user-images.githubusercontent.com/84276601/213775175-4e8842d3-e6a8-428e-8f8c-f4687f4f1fa0.png)
 
