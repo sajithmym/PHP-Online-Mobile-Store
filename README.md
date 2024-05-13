@@ -2,7 +2,10 @@
 
 
 Pleace Vist :  https://sajith0jsphp0assignment.000webhostapp.com/
-                   
+
+
+ Admin gmail  : sajithcool@gmail.com
+ password : 10050
                    
  This is  Online-Mobile-Store Web App Using Html, Css, JavaScript, Php.
  
