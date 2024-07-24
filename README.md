@@ -1,7 +1,7 @@
 # Online Mobile Store 
 
 
-Pleace Vist :  https://sajith0jsphp0assignment.000webhostapp.com/
+Deployed Link:  https://sajith0jsphp0assignment.000webhostapp.com/
                    
  This is  Online-Mobile-Store Web App Using Html, Css, JavaScript, Php.
  
