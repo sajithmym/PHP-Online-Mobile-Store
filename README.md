@@ -1,7 +1,7 @@
 # Online Mobile Store 
 
 
-Deployed Link:  [http://sajithmym.free.nf/](https://github.com/sajithmym/Php_Project_Online_Mobile_Store)
+Deployed Link:  [Deployed Link](https://github.com/sajithmym/Php_Project_Online_Mobile_Store)
                    
  This is  Online-Mobile-Store Web App Using Html, Css, JavaScript, Php.
  
