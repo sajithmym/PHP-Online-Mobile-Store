@@ -1,7 +1,7 @@
 # Online Mobile Store 
 
 
- [Deployed Link][https://maroon-brynn-8.tiiny.io/)
+ [Deployed Link](https://maroon-brynn-8.tiiny.io/)
                    
  This is  Online-Mobile-Store Web App Using Html, Css, JavaScript, Php.
  
